@@ -57,7 +57,14 @@ We would particularly welcome clarification on whether an individual founder may
 - No token sale, financial return, yield, or exchange listing is promised.
 - Technical performance and security remain to be independently verified.
 - No confidential source code, private keys, or internal token allocations are included here.
+## Technical Documentation
 
+For detailed information about the proposed
+ProofRail architecture, verification mechanisms,
+security considerations and development milestones,
+please consult:
+
+[ENQIVER ProofRail Technical Overview](TECHNICAL_OVERVIEW.md)
 ## Contact
 
 **Website:** https://enqiver.com  
